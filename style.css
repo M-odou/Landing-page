@@ -1,0 +1,104 @@
+header{
+    position: relative;
+     top: 2px;
+     
+
+}
+nav ul li{
+   display: inline-block;
+   float: right;
+    text-transform: none;
+   padding: 20px;
+
+
+   
+}
+header .container {
+ display: flex;
+ justify-content: space-between;
+
+
+ 
+
+}
+header nav ul{
+
+    text-decoration: none;
+    text-transform: none;
+    position: relative;
+    right: 40%;
+    font-size: 20px;
+    top: 45px;
+
+}
+nav ul li a {
+   text-decoration: none;
+   color: rgb(135, 67, 67);
+   font-weight: bold;
+
+}
+.container img{
+   width: 180px;
+   height: 170px;
+   position: relative;
+   left: 5%;
+   top: -2px;
+}
+.services{
+   background-color: rgb(135, 67, 67);
+   background-size: cover;
+   height:600px;
+   position: relative;
+   bottom: 30px;
+   background-repeat: no-repeat;
+   backdrop-filter: blur(150px) grayscale(0.5) opacity(100);
+
+}
+h1{
+   text-align: center;
+   position: relative;
+   color: white;
+   top: 5%;
+   font-style: italic;
+}
+.noservice{
+   position: relative;
+   color: white;
+   text-align: left;
+   left: 50px;
+   top: 15%;
+
+}
+.services h2{
+   font-size: 30px;
+   font-family: Helvetica, sans-serif;
+   font-style: oblique;
+}
+.list-service{
+   
+   float: left;
+   left: 20px;
+   position: relative;
+   right: 450px;
+   color: white;
+   top: 10%;
+   font-size: 27px;
+   line-height: 50px;
+   list-style-type: none;
+
+}
+.form{
+    position: relative;
+    top: 170px;
+    float: left;
+   left: -200px;
+}
+img{
+width: 40%;
+top: 50px;
+
+
+}
+h3{
+    color: orange;
+}
